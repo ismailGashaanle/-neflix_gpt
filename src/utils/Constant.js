@@ -1,0 +1,2 @@
+export const neflix_logo='https://wallpapercat.com/w/full/c/7/d/115480-2560x1440-desktop-hd-netflix-wallpaper-photo.jpg'
+export const neflix_bg="https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY.jpg";
